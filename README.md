@@ -5,7 +5,7 @@
 ## Sobre mim
 
 <div align="center">
-  <em style="font-size:20px;"> Atualmente sou estudante de **Bacharelado em Ciências da Computação** no **IFSul Campus Passo Fundo**. Tenho uma paixão por programação e desenvolvimento de jogos. </em>
+  <em style="font-size:20px;"> Atualmente sou estudante de Bacharelado em Ciências da Computação no IFSul Campus Passo Fundo. Tenho uma paixão por programação e desenvolvimento de jogos. </em>
 </div>
 
 <br>
