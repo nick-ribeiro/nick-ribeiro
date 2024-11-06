@@ -1,10 +1,12 @@
 <div align="center">
-  <em style="font-size:20px;"> Olá, me chamo Nícolas! 👋</em>
+  <em style="font-size:20px;"> Olá, me chamo Nícolas! 👋 </em>
 </div>
 
 ## Sobre mim
 
-Atualmente sou estudante de **Bacharelado em Ciências da Computação** no **IFSul Campus Passo Fundo**. Tenho uma paixão por programação e desenvolvimento de jogos. Estou constantemente aprendendo e explorando novas tecnologias.
+<div align="center">
+  <em style="font-size:20px;"> Atualmente sou estudante de **Bacharelado em Ciências da Computação** no **IFSul Campus Passo Fundo**. Tenho uma paixão por programação e desenvolvimento de jogos. </em>
+</div>
 
 ---
 
