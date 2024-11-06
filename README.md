@@ -8,6 +8,8 @@
   <em style="font-size:20px;"> Atualmente sou estudante de **Bacharelado em Ciências da Computação** no **IFSul Campus Passo Fundo**. Tenho uma paixão por programação e desenvolvimento de jogos. </em>
 </div>
 
+<br>
+
 <p align="center">
   <img src="https://media1.tenor.com/m/9X-I0mcc_OgAAAAd/dog-funny.gif" alt="gif_example" width="300"/>
 </p>
